@@ -1,0 +1,11 @@
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\bin\Release\MT2CAM.exe.config
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\bin\Release\MT2CAM.exe
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\bin\Release\MT2CAM.pdb
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\bin\Release\MT2CAM.xml
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\obj\Release\MT2CAM.vbprojAssemblyReference.cache
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\obj\Release\MT2CAM.Form1.resources
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\obj\Release\MT2CAM.Resources.resources
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\obj\Release\MT2CAM.vbproj.GenerateResource.cache
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\obj\Release\MT2CAM.exe
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\obj\Release\MT2CAM.xml
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\obj\Release\MT2CAM.pdb

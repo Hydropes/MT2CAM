@@ -1,0 +1,92 @@
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\bin\Debug\MT2CAM.exe.config
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\bin\Debug\MT2CAM.exe
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\bin\Debug\MT2CAM.pdb
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\bin\Debug\MT2CAM.xml
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\obj\Debug\MT2CAM.vbprojAssemblyReference.cache
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\obj\Debug\MT2CAM.Form1.resources
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\obj\Debug\MT2CAM.Resources.resources
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\obj\Debug\MT2CAM.vbproj.GenerateResource.cache
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\obj\Debug\MT2CAM.exe
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\obj\Debug\MT2CAM.xml
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\obj\Debug\MT2CAM.pdb
+D:\CAM\MT2CAM6\MT2CAM\MT2CAM\obj\Debug\MT2CAM.Form2.resources
+D:\CAM\MT2CAM6-28.02.2020\MT2CAM6\MT2CAM\MT2CAM\bin\Debug\MT2CAM.exe.config
+D:\CAM\MT2CAM6-28.02.2020\MT2CAM6\MT2CAM\MT2CAM\bin\Debug\MT2CAM.exe
+D:\CAM\MT2CAM6-28.02.2020\MT2CAM6\MT2CAM\MT2CAM\bin\Debug\MT2CAM.pdb
+D:\CAM\MT2CAM6-28.02.2020\MT2CAM6\MT2CAM\MT2CAM\bin\Debug\MT2CAM.xml
+D:\CAM\MT2CAM6-28.02.2020\MT2CAM6\MT2CAM\MT2CAM\obj\Debug\MT2CAM.vbprojAssemblyReference.cache
+D:\CAM\MT2CAM6-28.02.2020\MT2CAM6\MT2CAM\MT2CAM\obj\Debug\MT2CAM.Form1.resources
+D:\CAM\MT2CAM6-28.02.2020\MT2CAM6\MT2CAM\MT2CAM\obj\Debug\MT2CAM.Form2.resources
+D:\CAM\MT2CAM6-28.02.2020\MT2CAM6\MT2CAM\MT2CAM\obj\Debug\MT2CAM.Resources.resources
+D:\CAM\MT2CAM6-28.02.2020\MT2CAM6\MT2CAM\MT2CAM\obj\Debug\MT2CAM.vbproj.GenerateResource.cache
+D:\CAM\MT2CAM6-28.02.2020\MT2CAM6\MT2CAM\MT2CAM\obj\Debug\MT2CAM.exe
+D:\CAM\MT2CAM6-28.02.2020\MT2CAM6\MT2CAM\MT2CAM\obj\Debug\MT2CAM.xml
+D:\CAM\MT2CAM6-28.02.2020\MT2CAM6\MT2CAM\MT2CAM\obj\Debug\MT2CAM.pdb
+D:\12 semestr\MT2CAM\bin\Debug\MT2CAM.exe.config
+D:\12 semestr\MT2CAM\bin\Debug\MT2CAM.exe
+D:\12 semestr\MT2CAM\bin\Debug\MT2CAM.pdb
+D:\12 semestr\MT2CAM\bin\Debug\MT2CAM.xml
+D:\12 semestr\MT2CAM\obj\Debug\MT2CAM.vbprojAssemblyReference.cache
+D:\12 semestr\MT2CAM\obj\Debug\MT2CAM.Form1.resources
+D:\12 semestr\MT2CAM\obj\Debug\MT2CAM.Form2.resources
+D:\12 semestr\MT2CAM\obj\Debug\MT2CAM.Resources.resources
+D:\12 semestr\MT2CAM\obj\Debug\MT2CAM.vbproj.GenerateResource.cache
+D:\12 semestr\MT2CAM\obj\Debug\MT2CAM.exe
+D:\12 semestr\MT2CAM\obj\Debug\MT2CAM.xml
+D:\12 semestr\MT2CAM\obj\Debug\MT2CAM.pdb
+D:\12 semestr\MT2CAM\obj\Debug\MT2CAM.Form3.resources
+D:\12 semestr\MT2CAMv31.03.20\MT2CAM\obj\Debug\MT2CAM.vbprojAssemblyReference.cache
+D:\12 semestr\MT2CAMv31.03.20\MT2CAM\obj\Debug\MT2CAM.Form1.resources
+D:\12 semestr\MT2CAMv31.03.20\MT2CAM\obj\Debug\MT2CAM.Form2.resources
+D:\12 semestr\MT2CAMv31.03.20\MT2CAM\obj\Debug\MT2CAM.Form3.resources
+D:\12 semestr\MT2CAMv31.03.20\MT2CAM\obj\Debug\MT2CAM.Resources.resources
+D:\12 semestr\MT2CAMv31.03.20\MT2CAM\obj\Debug\MT2CAM.vbproj.GenerateResource.cache
+D:\12 semestr\MT2CAMv31.03.20\MT2CAM\bin\Debug\MT2CAM.exe.config
+D:\12 semestr\MT2CAMv31.03.20\MT2CAM\bin\Debug\MT2CAM.exe
+D:\12 semestr\MT2CAMv31.03.20\MT2CAM\bin\Debug\MT2CAM.pdb
+D:\12 semestr\MT2CAMv31.03.20\MT2CAM\bin\Debug\MT2CAM.xml
+D:\12 semestr\MT2CAMv31.03.20\MT2CAM\obj\Debug\MT2CAM.exe
+D:\12 semestr\MT2CAMv31.03.20\MT2CAM\obj\Debug\MT2CAM.xml
+D:\12 semestr\MT2CAMv31.03.20\MT2CAM\obj\Debug\MT2CAM.pdb
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAM\bin\Debug\MT2CAM.exe.config
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAM\bin\Debug\MT2CAM.exe
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAM\bin\Debug\MT2CAM.pdb
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAM\bin\Debug\MT2CAM.xml
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAM\obj\Debug\MT2CAM.vbprojAssemblyReference.cache
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAM\obj\Debug\MT2CAM.Form1.resources
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAM\obj\Debug\MT2CAM.Form2.resources
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAM\obj\Debug\MT2CAM.Form3.resources
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAM\obj\Debug\MT2CAM.Resources.resources
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAM\obj\Debug\MT2CAM.vbproj.GenerateResource.cache
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAM\obj\Debug\MT2CAM.exe
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAM\obj\Debug\MT2CAM.xml
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAM\obj\Debug\MT2CAM.pdb
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv08.04.20\MT2CAM\bin\Debug\MT2CAM.exe.config
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv08.04.20\MT2CAM\bin\Debug\MT2CAM.exe
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv08.04.20\MT2CAM\bin\Debug\MT2CAM.pdb
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv08.04.20\MT2CAM\bin\Debug\MT2CAM.xml
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.vbprojAssemblyReference.cache
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.Form1.resources
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.Form2.resources
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.Form3.resources
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.Resources.resources
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.vbproj.GenerateResource.cache
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.exe
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.xml
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.pdb
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.Form4.resources
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv24Full\MT2CAMv08.04.20\MT2CAM\bin\Debug\MT2CAM.exe.config
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv24Full\MT2CAMv08.04.20\MT2CAM\bin\Debug\MT2CAM.exe
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv24Full\MT2CAMv08.04.20\MT2CAM\bin\Debug\MT2CAM.pdb
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv24Full\MT2CAMv08.04.20\MT2CAM\bin\Debug\MT2CAM.xml
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv24Full\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.vbprojAssemblyReference.cache
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv24Full\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.Form1.resources
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv24Full\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.Form2.resources
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv24Full\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.Form3.resources
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv24Full\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.Form4.resources
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv24Full\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.Resources.resources
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv24Full\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.vbproj.GenerateResource.cache
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv24Full\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.exe
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv24Full\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.xml
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv24Full\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.pdb
+D:\12 semestr\MT2CAM_Текущее_решение\MT2CAMv24Full\MT2CAMv08.04.20\MT2CAM\obj\Debug\MT2CAM.Form5.resources
